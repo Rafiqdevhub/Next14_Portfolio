@@ -26,8 +26,7 @@ I am a passionate web developer from Pakistan, dedicated to building and optimiz
 ### DevOps and Tools
 - **Git & GitHub**
 - **Docker**
-- **CI/CD** (Jenkins, GitHub Actions)
-- **AWS** (S3, EC2)
+- **CI/CD** ( GitHub Actions)
 - **Heroku**
 - **Netlify**
 
