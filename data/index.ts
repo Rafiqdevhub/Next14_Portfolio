@@ -204,13 +204,22 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    link: "https://github.com/Rafiq825",
   },
+ 
   {
     id: 2,
-    img: "/twit.svg",
+    img: "/link.svg",
+    link: "https://linkedin.com/in/rafiq825",
   },
   {
     id: 3,
-    img: "/link.svg",
+    img: "/insta.svg",
+    link: "https://instagram.com/rafiq85825",
+  },
+  {
+    id: 4,
+    img: "/twit.svg",
+    link: "https://twitter.com/Rafiq85825",
   },
 ];
