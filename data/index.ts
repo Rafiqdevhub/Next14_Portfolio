@@ -104,34 +104,16 @@ export const projects = [
 
 export const testimonials = [
   {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    quote: "Programming is like being a mix of an artist and a craftsman. Coming up with solutions is like creating art, using your imagination and creativity. Fixing mistakes and making sure everything works smoothly is like following a strict set of rules to perfect your craft. Both parts are important in making programming what it is.",
+    title: "Programming is an Art",
   },
   {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    quote: "Programming is a way of using coffee as fuel or motivation to write computer code. It suggests that they are working on programming tasks gradually, focusing on writing and improving their code step by step. Essentially, it's a fun way of saying that they are using coffee to help them concentrate and be productive while coding.",
+    title: "Tea and Programming",
   },
   {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    quote: "keeping things simple is the best way to be efficient. When something is simple, it is easy to understand and easy to do. This can help us save time and energy, making tasks quicker and more effective. On the other hand, when things are too complicated or have unnecessary steps, it can slow us down and make us less productive. By simplifying our processes and focusing on what is most important, we can be more efficient in our work and in our daily lives.",
+    title: "Simplicity for Programmer",
   },
 ];
 
