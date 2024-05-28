@@ -1,5 +1,5 @@
 import { FaLocationArrow } from "react-icons/fa6";
-import Link from 'next/link'
+import Link from "next/link";
 import { Spotlight } from "./ui/Spotlight";
 import { TextGenerateEffect } from "./ui/TextGenerateEffect";
 import MagicButton from "./ui/MagicButton";
@@ -40,7 +40,8 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! I&apos;m M-Rafiq, a Developer from  Pakistan.
+            Hello! I&apos;m Muhammad Rafiq, a passionate developer from the
+            vibrant land of Pakistan.
           </p>
 
           <Link href="#about">
