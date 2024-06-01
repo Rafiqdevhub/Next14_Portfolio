@@ -74,7 +74,7 @@ export const projects = [
     id: 1,
     title: "Fit forever, Your Personal Fitness Companion",
     des: "Track your workouts, set goals, and monitor your progress.",
-    img: "/p1.svg",
+    img: "/fitness.png",
     iconLists: ["/re.svg", "/tail.svg", "/three.svg", "/fm.svg"],
   },
   {
