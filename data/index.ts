@@ -88,7 +88,7 @@ export const projects = [
     id: 3,
     title: "Stride with Nike: Find Your Perfect Pair",
     des: "Buy and explore your foot to feel comfortable and feel free to walk.",
-    img: "/p3.svg",
+    img: "/nike.png",
     iconLists: ["/re.svg", "/tail.svg"],
     
   },
