@@ -59,5 +59,5 @@ I would like to thank all the amazing people whose work has inspired and helped 
 
 Feel free to explore the projects and don't hesitate to contact me if you have any questions or ideas!
 
-<a href="https://rafiqporfolio.netlify.app/" target="_blank">Deploy</a>
+<a href="https://rafiqporfolio.netlify.app/" target="_blank">Feel free to see deploy version</a>
 
