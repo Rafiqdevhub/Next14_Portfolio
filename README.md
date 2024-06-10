@@ -59,4 +59,4 @@ I would like to thank all the amazing people whose work has inspired and helped 
 
 Feel free to explore the projects and don't hesitate to contact me if you have any questions or ideas!
 
-https://rafiqporfolio.netlify.app/
+<a href="https://rafiqporfolio.netlify.app/" target="_blank">Deployment</a>
